@@ -5,8 +5,8 @@
 !.gitignore
 
 # Include the world files
-!Mundodoslixo.db
-!Mundodoslixo.db.old
-!Mundodoslixo.fwl
-!Mundodoslixo.fwl.old
+Mundodoslixo.db
+Mundodoslixo.db.old
+Mundodoslixo.fwl
+Mundodoslixo.fwl.old
 steam_autocloud.vdf
