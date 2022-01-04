@@ -9,3 +9,4 @@
 !TestWorld.db.old
 !TestWorld.fwl
 !TestWorld.fwl.old
+!steam_autocloud.vdf
