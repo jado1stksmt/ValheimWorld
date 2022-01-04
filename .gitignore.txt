@@ -1,0 +1,11 @@
+# Exclude everything
+*
+
+# Include the .gitignore
+!.gitignore
+
+# Include the world files
+!TestWorld.db
+!TestWorld.db.old
+!TestWorld.fwl
+!TestWorld.fwl.old
