@@ -11,5 +11,5 @@ sleep 5000
 cd /D %WorldsLoc%
 git add .
 git commit -m "World Update"
-git push origin master
+git push origin main
 cmd
